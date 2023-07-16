@@ -130,10 +130,7 @@ payableCount                    : 1
 payableAmount                   : 3800
 totalDistanceKm                 : 1.648
 ```
-
-
-![](https://github.com/elzebra/test-actions/blob/main/photo_6168083185137727356_y.jpg?raw=true)
-
+![](https://github.com/elzebra/shared/blob/main/photo_6168083185137727356_y.jpg?raw=true)
 
 ### 데이터 수집 방식
 
