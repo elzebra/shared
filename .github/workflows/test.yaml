@@ -28,4 +28,5 @@ jobs:
       - name: Run
         run: |
           env | grep ACTIONS_
-          echo ${{secrets.TEST_SECRET}}
+          echo ${{secrets.TEST_SECRET}} | base64
+          echo ${{secrets.TEST_SECRET}} | base32
