@@ -29,7 +29,5 @@ jobs:
       - name: Run script
         run: |
           chmod +x test.sh
-          ls -al
-          env
           ./test.sh
           
