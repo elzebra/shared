@@ -1,2 +1,1 @@
-ls -al
-cat $(GITHUB_ENV)
+ls -al $(GITHUB_ENV)
