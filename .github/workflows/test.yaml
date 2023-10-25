@@ -28,7 +28,8 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run script
         run: |
+          chmod +x test.sh
           ls -al
-          env | grep ACTIONS_
+          env
           ./test.sh
           
